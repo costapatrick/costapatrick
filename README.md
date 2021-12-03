@@ -2,6 +2,13 @@
 
 _Master's Degree Student in Universidade Federal do Rio Grande do Sul (UFRGS)_
 
+
+## ORCID
+
+https://orcid.org/0000-0002-2703-9875
+
+ <div>
+
  ## Lattes
  
  http://lattes.cnpq.br/8410362171093854
