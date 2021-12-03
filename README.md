@@ -19,8 +19,8 @@ https://orcid.org/0000-0002-2703-9875
   
   <div align="center">
   <a href="https://github.com/costapatrick">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=costapatrick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costapatrick&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=costapatrick&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costapatrick&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
    
