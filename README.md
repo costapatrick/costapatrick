@@ -1,6 +1,6 @@
 ## Hello, welcome !!!  I am Patrick Costa.
 
-_Master's Degree Student in Universidade Federal do Rio Grande do Sul (UFRGS)_
+_PhD. Student in Universidade Federal do Rio Grande do Sul (UFRGS)_
 
 
 ## ORCID
